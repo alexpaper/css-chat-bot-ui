@@ -1,6 +1,6 @@
 # CSS JAVASCRIPT CHATBOT UI.
 
-Simple CSS Chat Bot UI (User Interface).
+Simple CSS Glass Chat Bot UI (User Interface).
 
 ![CHAT BOT](/img/FRONT.png);
 
